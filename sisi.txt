@@ -1,1 +1,3 @@
-This is the file that we are editing with the comp ya kuni  
+This is the file that we are editing.
+Well, this time i edit it alone and try using github alone . 
+the first time a friend showed me how
